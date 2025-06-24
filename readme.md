@@ -29,8 +29,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/querydoc.git
-cd querydoc
+git clone https://github.com/UrTechTips/PDF-AnswerBot/
+cd PDF-AnswerBot
 pip install -r requirements.txt
 ```
 ---
