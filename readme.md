@@ -61,13 +61,7 @@ Ask questions that relate directly to the **content** of the uploaded PDF. For e
 > Avoid questions about metadata like “Who is the author?” or “How many pages?” as this system retrieves answers from **visible text**, not document properties.
 
 ## License
-
 This project is for educational and demonstration purposes.
 
-
-
 ## Author
-
 **Sai Sreenadh Chilukuri**
-
-```
