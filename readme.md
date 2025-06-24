@@ -4,8 +4,6 @@
 
 > Upload any PDF → Ask a question → Get a smart answer grounded in the document.
 
----
-
 ## Features
 
 - PDF text extraction and paragraph-based chunking
@@ -13,9 +11,7 @@
 - Gemini-powered response generation using selected paragraph
 - Displays source paragraph for answer grounding
 - Built with **Python + Streamlit** for rapid prototyping
-
----
-
+  
 ## How It Works
 
 1. **PDF Upload**  
@@ -29,15 +25,6 @@
 
 4. **Answer Generation**  
    The selected paragraph and the question are sent to **OpenAI's GPT-3.5** to generate a clear, context-aware answer.
-
----
-<!-- 
-## Demo
-
-![demo](path-to-screenshot.png) 
-
---- -->
-
 
 ## Installation
 
@@ -61,8 +48,6 @@ Then:
 
 > Note: You’ll need an Google Gemini API key. Set it as an environment variable.
 
----
-
 ## Example Questions
 
 Ask questions that relate directly to the **content** of the uploaded PDF. For example:
@@ -74,8 +59,6 @@ Ask questions that relate directly to the **content** of the uploaded PDF. For e
 - “What does the document say about performance evaluation?”
 
 > Avoid questions about metadata like “Who is the author?” or “How many pages?” as this system retrieves answers from **visible text**, not document properties.
-
----
 
 ## License
 
